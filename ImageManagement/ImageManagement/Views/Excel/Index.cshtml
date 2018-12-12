@@ -1,0 +1,16 @@
+﻿@model ImageManagement.Models.ApiExcelResultModel
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>上传图片调用接口测试</h2>
+@using (Html.BeginForm(FormMethod.Post,new{ enctype = "multipart/form-data" }))
+{
+<input type="file" name="excel" multiple value="选择图片" />
+<input type="submit" value="提交" />
+}
+@if (ViewBag.requestId != null)
+{
+@Html.ActionLink("获取excel", "Get_request_result" ,new{ request_id=ViewBag.requestId})
+@Html.ActionLink("获取json", "Get_request_result" ,new{ request_id=ViewBag.requestId,type=1})
+}
