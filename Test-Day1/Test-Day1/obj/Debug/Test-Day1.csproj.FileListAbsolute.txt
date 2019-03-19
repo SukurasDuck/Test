@@ -1,0 +1,11 @@
+D:\Projects\Day1\Test-Day1\Test-Day1\bin\Debug\Test-Day1.exe.config
+D:\Projects\Day1\Test-Day1\Test-Day1\bin\Debug\Test-Day1.exe
+D:\Projects\Day1\Test-Day1\Test-Day1\bin\Debug\Test-Day1.pdb
+D:\Projects\Day1\Test-Day1\Test-Day1\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Day1\Test-Day1\Test-Day1\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\Day1\Test-Day1\Test-Day1\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\Day1\Test-Day1\Test-Day1\obj\Debug\Test-Day1.csprojAssemblyReference.cache
+D:\Projects\Day1\Test-Day1\Test-Day1\obj\Debug\Test-Day1.csproj.CoreCompileInputs.cache
+D:\Projects\Day1\Test-Day1\Test-Day1\obj\Debug\Test-Day1.csproj.CopyComplete
+D:\Projects\Day1\Test-Day1\Test-Day1\obj\Debug\Test-Day1.exe
+D:\Projects\Day1\Test-Day1\Test-Day1\obj\Debug\Test-Day1.pdb
